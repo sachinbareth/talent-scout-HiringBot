@@ -13,7 +13,7 @@ Built using Python, Streamlit, and Google Gemini, the chatbot maintains context 
 -  Clean prompt engineering for accuracy
 -  Error handling for incomplete or unclear inputs
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python 3.8+
 - Streamlit for web interface
@@ -22,7 +22,7 @@ Built using Python, Streamlit, and Google Gemini, the chatbot maintains context 
 - Langchain framework
 - Docker for containerized deployment on dockerhub
 
-## 📂 Project Structure
+## Project Structure
 ```
 talent-scout-HiringBot/
 ├── app/
